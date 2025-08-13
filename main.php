@@ -4,7 +4,7 @@ $num = 21;
 function global_var() {
   
   global $num;
-  echo"Variable num inside function $num \n";
+  echo"Variable num inside1 function $num \n";
 }
 
   global_var();
